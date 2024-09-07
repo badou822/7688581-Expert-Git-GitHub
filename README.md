@@ -13,7 +13,7 @@ Modification github
 ```
 A définir + modification AB
 Modification locale suivie de changement distant
-Nouvelle modification distante
+Modification distante à conserver pour merge
 
 ```
 
