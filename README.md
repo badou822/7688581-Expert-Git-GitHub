@@ -12,7 +12,10 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 Modification github
 ```
 A définir + modification AB
+
 Modification locale suivie de changement distant à merger
+Modification locale suivie de changement distant
+Modification distante à conserver pour merge
 
 ```
 
